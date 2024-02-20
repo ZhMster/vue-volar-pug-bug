@@ -1,6 +1,7 @@
 <template lang="pug">
 img(alt="Vue logo" src="./assets/logo.png")/
 HelloWorld(msg="Hello Vue 3 + TypeScript + Vite")/
+// Try autocomplete "data" to "dataTest".
 div Try {{autoc}} this with your editor [vscode]: {{data}}/
 </template>
 
